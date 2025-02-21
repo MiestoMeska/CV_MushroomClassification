@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://github.com/MiestoMeska/CV_MushroomClassification/blob/main/assets/Mushroom_types.jpg" alt="Mushrooms" width="75%">
+</p>
+
+
 # Mushroom Classification Project
 
 ## Introduction
@@ -24,7 +29,7 @@ In this module, we consolidate our knowledge to address a classification problem
 
 1. **Acquisition:** The dataset is available at Kaggle [Mushrooms Classification - Common Genus Images Dataset](https://www.kaggle.com/maysee/mushrooms-classification-common-genuss-images).
    
-2. **Exploration:**  [An Exploratory Data Analysis (EDA)](https://github.com/TuringCollegeSubmissions/vruzga-DL.1.5/blob/master/EDA.ipynb) aims to reveal information about the given dataset.
+2. **Exploration:**  [An Exploratory Data Analysis (EDA)](https://github.com/MiestoMeska/CV_MushroomClassification/blob/main/notebooks/EDA.ipynb) aims to reveal information about the given dataset.
 
 #### Modeling
 
@@ -32,15 +37,15 @@ In this module, we consolidate our knowledge to address a classification problem
 
 Below is the structure of the ResNet50 model used in this project:
 
-![ResNet50 Structure](https://github.com/TuringCollegeSubmissions/vruzga-DL.1.5/blob/master/assets/ResNet50_structure.JPG)
+![ResNet50 Structure](https://github.com/MiestoMeska/CV_MushroomClassification/blob/main/assets/ResNet50_structure.JPG)
 
-[Information about each layer of used model.](https://github.com/TuringCollegeSubmissions/vruzga-DL.1.5/blob/master/ResNet50_architecture.ipynb).
+[Information about each layer of used model.](https://github.com/MiestoMeska/CV_MushroomClassification/blob/main/notebooks/ResNet50_architecture.ipynb).
 
 
 
 Additional information about the [ResNet50 Model.](https://medium.com/@nitishkundu1993/exploring-resnet50-an-in-depth-look-at-the-model-architecture-and-code-implementation-d8d8fa67e46f)
 
-- **Training and Testing:** For an in-depth look at the model training and testing process, including the experimental setup, training logs, and detailed analysis of the model's performance under various configurations, please refer to the [Model Training and Testing Notebook](https://github.com/TuringCollegeSubmissions/vruzga-DL.1.5/blob/master/Model_training_test.ipynb).
+- **Training and Testing:** For an in-depth look at the model training and testing process, including the experimental setup, training logs, and detailed analysis of the model's performance under various configurations, please refer to the [Model Training and Testing Notebook](https://github.com/MiestoMeska/CV_MushroomClassification/blob/main/notebooks/Model_training_test.ipynb).
 
 ### Conclusions of the Project
 
